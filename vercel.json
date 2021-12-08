@@ -4,10 +4,6 @@
     {
       "src": "./Backend/package.json",
       "use": "@vercel/node"
-    },
-    {
-      "src": "./Frontend/package.json",
-      "use": "@vercel/static"
     }
   ],
 

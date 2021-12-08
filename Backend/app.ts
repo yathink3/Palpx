@@ -20,3 +20,11 @@ app.listen(PORT, () => {
 //     "src": "./Frontend/package.json",
 //     "use": "@vercel/static"
 //   }
+// ,
+
+//   "rewrites": [
+//     {
+//       "source": "/(.*)",
+//       "destination": "./Backend/package.json"
+//     }
+//   ]
